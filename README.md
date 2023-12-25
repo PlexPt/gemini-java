@@ -1,16 +1,31 @@
 <h1 style="text-align: center; color: hotpink; -webkit-animation: rainbow 5s infinite; -moz-animation: rainbow 5s infinite; -o-animation: rainbow 5s infinite; animation: rainbow 5s infinite;">Gemini Java API</h1>
 
-
 Google Gemini 的 Java API SDK。觉得不错请右上角Star
 
+
+
+## 前言
+
+12月6日，谷歌发布新一代大模型Gemini、Gemini Pro。支持多模态（文字，图片，音频，视频等等）处理。
+
+12月13日，Gemini API对公众开放。
+
+### 注意
+
+目前 （2023-12-25） Gemini Pro 是免费使用，但单账户有速率限制，现阶段的免费版本可以每分钟60次请求，并且只支持美国IP访问。至于收费版本，目前还不能用，但是收费标准已经公布了。Gemini Pro 付费版的定价是每千个字符0.00025美元，每张图片0.0025美元，输出每千个字符0.0005美元。
+
+### 如何申请 Gemini Pro API
+
+1. 准备一个谷歌账号。
+2. 建议使用美国节点访问。
+3. 打开Google AI Studio 申请api的网址：https://makersuite.google.com/app/apikey。或者打开Gemini的首页 http://ai.google.dev ，并点击 Get API key in Google AI Studio 按钮。
+4. 点击左边菜单里的 Get API key，然后在右边点击 Create API key in new project。
 
 #### 项目合作洽谈请点击 联系微信 https://work.weixin.qq.com/kfid/kfc6913bb4906e0e597
 
 ### QQ群：645132635
 
-# 注意
 
-目前 （2023-12-25） Gemini Pro 是免费使用，但单账户有速率限制，并且只支持美国IP访问
 
 点击👇🏻传送链接，购买云服务器炼丹：
 
